@@ -20,7 +20,6 @@ body
 	{
 		margin-left:400px;
 		width:500px;
-		right:0px;
 		text-align:center;
 	}
 	
@@ -50,4 +49,16 @@ a:link, a:visited {
 		text-align:center;
 		color: #AAFF66;
 		padding-top:25%;
+	}
+	
+.spine
+	{
+		text-align:center;
+	}
+	
+		background-color:#FFFFCC;
+		right:0;
+		top:0;
+		bottom:0;
+		border:2px solid black;
 	}
