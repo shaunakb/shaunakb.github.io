@@ -56,9 +56,10 @@ a:link, a:visited {
 		text-align:center;
 	}
 	
-		background-color:#FFFFCC;
-		right:0;
-		top:0;
-		bottom:0;
-		border:2px solid black;
+
+.u
+	{
+		font-size: 12;
 	}
+	
+//class 'u' is for unimportant elements	
