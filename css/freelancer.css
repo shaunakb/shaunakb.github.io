@@ -10756,6 +10756,10 @@ a.text-dark:hover, a.text-dark:focus {
   }
 }
 
+.timeline-photo {
+	min-width: 100px;
+}
+
 .portfolio {
   margin-bottom: -30px;
 }
